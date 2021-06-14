@@ -161,10 +161,6 @@ Description: Open nation menu.
 `nations.command.rename`\
 Description: Rename nation.
 
-> `/Nations menu`\
-`nations.command.menu`\
-Description: Open nation menu.
-
 > `/Nations setcapital`\
 `nations.command.setcapital`\
 Description: Set capital of nation.
